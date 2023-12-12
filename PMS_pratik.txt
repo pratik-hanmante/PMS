@@ -45,7 +45,7 @@ Add Graduation Details (Degree)
 		College :smt. Kashibai Navale College Of Enginnering Vadgaon, Pune
 		
 		First year: Total SGPA = 6.66
-				  marks = 760.5/1300
+				  marks = 768.3/1300
 		
 		Second year: Total SGPA = 8.5
 				marks = 1085/1400
