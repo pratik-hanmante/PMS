@@ -1,0 +1,93 @@
+Name:  HANMANTE PRATIK DNYANOBA
+
+EmailId:  pratikhanmante3@gmail.com
+	  	hanmantepratik141001@gmail.com
+
+PRN No.: 230945920028
+
+Date of Birth: 14/10/2001
+
+Mobile no: 7263835358
+		     8275171337
+
+Skype Id:-live:.cid.5ab16752662f3da3
+Curr.address: Chitra 2, Above Om chemist near gokhale nagar,shivaji nagar, pune, 411016
+
+Permanent address: At Post Panchincholi, taluqa Nilanga district Latur
+
+Qualification: 10th/SSC
+	    Specialization: general
+            Institute/School : Shrikishan somani secondary highschool ,Latur
+		Board : Maharashtra State Board Of Secondary And Higher Secondary Education,Pune
+		Grade/Division : I
+		Obtained marks : 471
+		Total marks : 500
+		Year of Passing : March - 2017
+		Percentage :94.20%
+
+
+Qualification: 12th/HSC 
+                Specialization:Science
+		Board : Maharashtra State Board Of Secondary And Higher Secondary Education,Pune
+		College : Rajarshi shahu jr. science college ,Latur
+                Obtained marks : 403
+		Total marks : 650
+		Percentage: 62.00%
+		
+		Year of Admission : 2018
+		Year of Passing :  feb- 2019
+		
+		
+
+
+Add Graduation Details (Degree)
+		University : Savitribai Phule Pune University,Pune,Maharashtra
+		College :smt. Kashibai Navale College Of Enginnering Vadgaon, Pune
+		
+		First year: Total SGPA = 6.66
+				  marks = 760.5/1300
+		
+		Second year: Total SGPA = 8.5
+				marks = 1085/1400
+
+		Third year: Total SGPA = 9.10
+				marks = 1169/1400
+
+		Fourth year: Total SGPA = 8.40
+				marks = 1071/1400
+
+		
+		Total CGPA = 8.15
+		Total Percentage = 71.72 %
+                Year of Admission : 2019
+		Year of Passing : 2023
+		
+
+
+Academic Project Information:
+		Select Qualification: PG Diploma
+		Project Title: Blog Project
+
+		Duration(Month):2 months
+		Project Description: Created blog app using ReactJS.MongoDB,ExpressJs,NodeJs
+						     where user can create and update blogs
+
+		Project Title: Social Media app
+		Project Description: created social media application using ReactJS and springboot
+						     where users can create ,delete,comment on posts and interact among		
+						     themselves
+		
+		Project Title: Ecommerce Marketplace
+		Peoject Description: Created ecommerce marketplace using NextJS,ReactJs and tailwindcss
+						     it includes admin dashboard and quality assurance for admins
+
+
+Other Information: 
+		Religion: Hindu
+		Regional Languages Known: Marathi,English,Hindi
+		
+		Hobbies: playing and watching football
+		Extra curricular:
+
+		
+
